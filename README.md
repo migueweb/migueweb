@@ -4,7 +4,7 @@
 
 <h3 align="center">A passionate frontend developer from Colombia</h3>
 
-- 🌱 I’m currently learning **React, Figma**
+- 🌱 I’m currently learning **PHP, React, Figma**
 <!-- Contact -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
