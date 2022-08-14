@@ -8,7 +8,7 @@
 <!-- Contact -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://linkedin.com/in/miguel-amador-480957248" target="blank"><img align="center" src="https:/githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="miguel-amador-dev" height="30" width="40" />
+    <a href="https://linkedin.com/in/miguel-amador-dev" target="blank"><img align="center" src="https:/githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="miguel-amador-dev" height="30" width="40" />
     </a>
 </p>
 
