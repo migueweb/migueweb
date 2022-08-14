@@ -1,10 +1,14 @@
 <!-- banner -->
-<!--********-->
-<h1 align="center">Hi 👋, I'm Miguel Amador</h1>
+![Miguel Amador banner](./img/banner.jpg)
 
-<h3 align="center">A passionate frontend developer from Colombia</h3>
+<!-- <h1 align="center">Hi 👋, I'm Miguel Amador</h1> -->
+
+<h3 align="center">A passionate developer from Colombia 🇨🇴</h3>
+<!-- Paragrahp about me-->
+<!--*******************-->
 
 - 🌱 I’m currently learning **PHP, React, Figma**
+
 <!-- Contact -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -13,8 +17,8 @@
     </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
 <!-- Languages and tools-->
+<h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" />
