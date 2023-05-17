@@ -1,5 +1,5 @@
 <!-- start banner -->
-<img src="./img/banner.png"/>
+![](./img/banner.webp)
 <!-- end banner -->
 
 
